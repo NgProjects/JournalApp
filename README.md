@@ -1,9 +1,24 @@
-# JournalApp
+#Journal App(Angie's Journal)
 
-User is able to Register and Login using google authentication(Fire Base).
-User is able to View all entries to their diary.
-User is able to View the contents of a diary entry.
-User is able to Add and modify an entry.
+Prerequisites
+Android OS 
+
+Installing
+Download APK from https://github.com/NgProjects/JournalApp/raw/master/angies%20journal.apk
+install apk in android version 5 and above
+
+Built With
+Android(Java)
+Gradle - Dependency Management
+
+Author
+Erondu Ngozi
+
+License
+This project is licensed under the MIT License - see the LICENSE.md file for details
+
+Acknowledgments
+Udacity, Google, Andela Learning Community
 
 
 
