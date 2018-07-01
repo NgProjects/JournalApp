@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Journal App</string>
+    <string name="btn_sign_up">Sign Up</string>
+    <string name="btn_sign_in">Sign In</string>
+
+
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Email</string>
+    <string name="or">OR</string>
+    <string name="err_msg_email">Invalid Email Address</string>
+    <string name="err_msg_password">Please input password</string>
+    <string name="update_button">Update Journal</string>
+    <string name="title_error_message">Title cannot be left blank</string>
+    <string name="content_error_message">Content cannot be left blank</string>
+</resources>
